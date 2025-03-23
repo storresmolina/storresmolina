@@ -1,4 +1,4 @@
-## Hi there!👋 I'm Sebastian :ECU:
+## Hi there, I'm Sebastián Torres! 👋
 
 🧠 ACME Major at Brigham Young University <br/>
 🔎 Always looking to learn new things <br/>
