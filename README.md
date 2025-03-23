@@ -1,3 +1,9 @@
+## Hi there!👋 I'm Sebastian :ECU:
+
+🧠 ACME Major at Brigham Young University <br/>
+🔎 Always looking to learn new things <br/>
+✍️ Passionate about mathematical applications in the real world <br/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastianmateo.torres) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/storresmolina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastianmateo.torres@gmail.com) 
