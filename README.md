@@ -1,8 +1,6 @@
 ## Hi there, I'm Sebastián Torres! 👋
 
-🧠 ACME Major at Brigham Young University <br/>
-🔎 Always looking to learn new things <br/>
-✍️ Passionate about mathematical applications in the real world <br/>
+I’m studying in the Mathematics program at BYU because I believe math isn’t just theoretical. It’s a tool for change. I’ve built a foundation in math, stats, and computation, and I’m always learning new languages and frameworks to bring ideas to life. I’m excited to join a team where I can apply my analytical mindset and creative problem-solving to real business or research challenges.
 
 
 ## 🌐 Socials:
