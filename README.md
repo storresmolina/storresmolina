@@ -1,20 +1,29 @@
-## Hi there, I'm Sebastián Torres! 👋
+# Hi, I'm Sebastián Torres 👋
 
-I’m studying in the Mathematics program at BYU because I believe math isn’t just theoretical. It’s a tool for change. I’ve built a foundation in math, stats, and computation, and I’m always learning new languages and frameworks to bring ideas to life. I’m excited to join a team where I can apply my analytical mindset and creative problem-solving to real business or research challenges.
+**Applied Mathematics & Data Science | Quantitative Modeling | Scientific Computing | Software Development**
+
+I'm a mathematics student at Brigham Young University, concentrating in data science and graduating in April 2027. I enjoy turning mathematical ideas into useful software, exploring how models behave, and validating results through careful testing and reproducible experiments.
+
+I'm interested in opportunities at the intersection of mathematics, data, and technology:
+[LinkedIn](https://www.linkedin.com/in/storresmolina/)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/torres.sebastianmateo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/storresmolina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastianmateo.torres@gmail.com) 
+## Selected projects
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=storresmolina&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=storresmolina&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- **[Minesweeper Probability Lab](https://github.com/storresmolina/minesweeper-probability-lab)** — An interactive probability solver that computes exact conditional mine probabilities using combinatorial enumeration and whole-board constraints. Validated against an independent brute-force oracle. Built with TypeScript, React, and Vitest.
+- **[Chess Position Map](https://github.com/storresmolina/chess-position-map)** — An interactive graph of chess positions and observed moves, backed by a reproducible Python and SQLite data pipeline. The current preview aggregates 3,976 qualifying games from a 50,000-game pilot of Lichess data. Built with Python, React, and TypeScript.
 
-### ✍️ Daily Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Quantitative research & teaching
 
----
-[![](https://visitcount.itsvg.in/api?id=storresmolina&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Battle of the Quants (2026 finalist):** Contributed to team research in quantitative portfolio modeling and prototyped a Hidden Markov Model for forecasting broad-market direction.
+- **Coding for Careers:** Independently designed and taught a semester-long university course on algorithms, data structures, and technical interview preparation for approximately 20 students.
+- **ACME Labs:** Maintained computational mathematics instructional materials across four volumes, improving mathematical explanations and technical documentation.
 
+## Technical toolkit
+
+| Area | Tools and methods |
+| --- | --- |
+| Programming | Python, C++, TypeScript, SQL |
+| Scientific computing | NumPy, pandas, SciPy, statsmodels, PyTorch |
+| Quantitative methods | Time-series modeling, probability, numerical linear algebra, convex optimization, backtesting |
+| Software development | React, React Native, PostgreSQL, SQLite, Git, GitHub Actions, pytest, Vitest |
